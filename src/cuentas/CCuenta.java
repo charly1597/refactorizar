@@ -22,6 +22,7 @@ public class CCuenta {
      * @return the nombre
      */
 
+    
     /**
      * @param nombre the nombre to set
      */
