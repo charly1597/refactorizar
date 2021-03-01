@@ -21,9 +21,6 @@ public class CCuenta {
     /**
      * @return the nombre
      */
-    public String getNombre() {
-        return nombre;
-    }
 
     /**
      * @param nombre the nombre to set
