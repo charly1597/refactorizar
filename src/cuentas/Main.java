@@ -41,6 +41,12 @@ public class Main {
         } catch (Exception e){
             System.out.println("Fallo al retirar");
         }
+        
+        try{
+            cuenta1.ingresar(300);
+        }catch(Exception e){
+            System.out.println("Fallo al ingresar");
+        }
     }
     
 }
