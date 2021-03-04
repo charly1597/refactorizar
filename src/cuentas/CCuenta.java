@@ -10,6 +10,7 @@ package cuentas;
 /**
  *
  * @author EntornosDesarrollo
+ * visto
  */
 public class CCuenta {
 
