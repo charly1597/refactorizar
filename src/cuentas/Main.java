@@ -9,7 +9,7 @@ package cuentas;
 
 /**
  *
- * @author EntornosDesarrollo
+ * @author Carlos Talavera
  */
 public class Main {
 
@@ -20,6 +20,9 @@ public class Main {
         operativa_cuenta(1000);
     }
 
+    /**
+     * @param cantidad En este caso el parámetro no se usa para nada
+     */
     public static void operativa_cuenta(float cantidad) {
         // TODO code application logic here
         CCuenta cuenta1;
